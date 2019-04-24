@@ -1,1 +1,1 @@
-# Psychic-Game
+https://j-lindley.github.io/Psychic-Game/
